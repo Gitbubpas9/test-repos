@@ -1,1 +1,2 @@
 // warrior
+int func();
